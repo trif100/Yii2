@@ -1,0 +1,1 @@
+composer create-project --ignore-platform-reqs --prefer-dist --stability=dev yiisoft/yii2-app-basic basic
